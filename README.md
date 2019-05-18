@@ -1,5 +1,4 @@
 <p align=center>
-
 <img src="ais_logo.png" width=70% height=70%/>
 </p>
 
@@ -76,3 +75,10 @@ Takes some time ~5 min. Able to use this service on mulitple posts of same accou
 <br>
 URL: https://skweezer.net/trial
 </details>
+
+
+## Contribution
+
+It would be nice if you want to help me checking the sites above to see if they need email verification or if there is something that should be noted.
+
+Also, if you find any sites feel free to add them to this list.
