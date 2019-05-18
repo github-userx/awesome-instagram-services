@@ -76,6 +76,12 @@ Takes some time ~5 min. Able to use this service on mulitple posts of same accou
 URL: https://skweezer.net/trial
 </details>
 
+<details>
+<summary>Followrio [50] 📝✅</summary>
+<br>
+URL: https://followrio.com/50-real-instagram-free-followers/
+It takesa minute or two for the followers to come and when it starts, it gradually increases.
+</details>
 
 ## Contribution
 
