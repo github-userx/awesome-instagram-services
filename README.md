@@ -54,7 +54,7 @@ URL: https://blastup.com/free-trial
 </details>
 
 <details>
-<summary>Famoid [100] 📝</summary>
+<summary>Famoid [100] 📝✅</summary>
 <br>
 URL: https://famoid.com/get-free-instagram-likes/
 
