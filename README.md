@@ -64,7 +64,7 @@ According to the website, you can use this every 24 hours. But I have not tested
 <details>
 <summary>Followersup [50] 📝✅</summary>
 <br>
-URL: https://famoid.com/get-free-instagram-likes/
+URL: https://www.followersup.co/product/Instagram-likes-trial
 
 Takes some time ~5 min. Able to use this service on mulitple posts of same account.
 </details>
