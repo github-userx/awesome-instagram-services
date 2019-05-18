@@ -1,9 +1,12 @@
 <p align=center>
 
 <img src="ais_logo.png" width=70% height=70%/>
+
+<br>
+<span>These are a list of awesome FREE services you can use to get likes and followers on Instagram</span>
+<br>
 </p>
 
-> These are a list of awesome FREE services you can use to get likes and followers on Instagram 
 
 Each of the services in this list have been tested and has been confirmed that they work. 
 
