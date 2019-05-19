@@ -69,6 +69,13 @@ URL: https://www.followersup.co/product/Instagram-likes-trial
 Takes some time ~5 min. Able to use this service on mulitple posts of same account.
 </details>
 
+<details>
+<summary>Buzzoid [100] ✅</summary>
+<br>
+URL: https://buzzoid.com/free-instagram-likes/
+
+</details>
+
 ## Free Followers
 <details>
 <summary>Skweezer [50]</summary>
