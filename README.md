@@ -58,7 +58,7 @@ URL: https://blastup.com/free-trial
 <br>
 URL: https://famoid.com/get-free-instagram-likes/
 
-According to the website, you can use this every 24 hours. But I have not tested this after 24 hours. Takes around 10 min.
+According to the website, you can use this every 24 hours. Takes around 10 min.
 </details>
 
 <details>
@@ -89,6 +89,12 @@ URL: https://skweezer.net/trial
 URL: https://followrio.com/50-real-instagram-free-followers/
 It takesa minute or two for the followers to come and when it starts, it gradually increases.
 </details>
+
+<details>
+<summary>Famoid [20] 📝✅</summary>
+<br>
+URL: https://famoid.com/get-free-instagram-followers/
+According to the website, you can use this every 24 hours. Takes some time for the followers to arrive</details>
 
 ## Contribution
 
