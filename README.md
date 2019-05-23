@@ -91,10 +91,13 @@ It takesa minute or two for the followers to come and when it starts, it gradual
 </details>
 
 <details>
-<summary>Famoid [20] 📝✅</summary>
+<summary>Famoid [20 or 100] 📝✅</summary>
 <br>
 URL: https://famoid.com/get-free-instagram-followers/
-According to the website, you can use this every 24 hours. Takes some time for the followers to arrive</details>
+According to the website, you can use this every 24 hours. Takes some time for the followers to arrive.
+The website says that it will give you 20 followers, but I have noticed multiple times that 100 followers are received.
+I will have to double check this in the future.
+</details>
 
 ## Contribution
 
